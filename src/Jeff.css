@@ -1,0 +1,42 @@
+.landing-page {
+
+}
+
+#header {
+    background-color: #252525;
+    color: white;
+    margin: 0;
+    text-align: center;
+    height: 4vh;
+    padding: 0;
+}
+
+p {
+    padding-top: 1vh;
+    margin-bottom: 0;
+    font-size: 10px;
+}
+
+.nav-link {
+    color: white;
+}
+
+ .navbar-brand {
+    color: white;
+}
+
+
+.first {
+    height: 40vh;
+    min-height: 400px;
+    background-size: cover;
+    background-image: src("./images/Aesop-Homepage-Banner.jpg");
+}
+
+#wrapper {
+    height: 40vh;
+    min-height: 400px;
+    background-size: cover;
+    background-image: url("./images/Aesop-Homepage-Banner.jpg");
+    padding: 0;
+}

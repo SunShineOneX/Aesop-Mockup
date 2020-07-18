@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './Pari.css';
 import Gifts from './components/Gifts-2';
 
 function App() {

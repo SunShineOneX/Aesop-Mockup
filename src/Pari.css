@@ -49,3 +49,12 @@ button {
 .scrub2 {
   margin-top: 159px;
 }
+
+.body-btn {
+  margin-top: 250px;
+  font-size: 8pt;
+}
+
+a {
+  cursor: pointer;
+}

@@ -1,3 +1,20 @@
+## Roles:
+> - Jeff: Leader
+> - Minh: Colaborator
+> - Parrish: Colaborator
+
+## Component Sections:
+* Homepage (Header)
+* Gifts
+* Carousel
+* Suggestions
+* Hands and Body
+* Slide Show
+* Nurturing Formulations
+* Footer
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

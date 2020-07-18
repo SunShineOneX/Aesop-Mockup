@@ -37,6 +37,11 @@ button {
   font-size: 7pt;
 }
 
+.carousel {
+  background-color: #fefdf2;
+  height: 200px;
+}
+
 .scrub1 {
   margin-top: 13px;
 }

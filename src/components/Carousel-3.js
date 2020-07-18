@@ -3,6 +3,7 @@ import React from 'react';
 function Carousel() {
     return(
         <div className="container">
+            <div className="carousel"></div>
             <div className="row">
                 <div className="col-sm-3">
                     <p id="title">An odyssey of gifts, for generous and inspired giving</p>

@@ -26,7 +26,7 @@ function Carousel() {
                     <p id="sub-title"><strong>For hands and body</strong></p>
                     <p id="title">Daiy cleansing</p>
                     <p id ="sub-title">Ensure impeccable hygiene with our range of mild yet efficacious formulations.</p>
-                    <a><p className="body-btn">See all Body &nbsp; &nbsp; &#8594;</p></a>
+                    <a href=""><p className="body-btn">See all Body &nbsp; &nbsp; &#8594;</p></a>
                 </div>
                 <div className="col-sm-9">
                     <div className="card-deck">

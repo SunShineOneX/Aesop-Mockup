@@ -21,10 +21,11 @@ function Suggestions() {
                 </div>
             </div>
             <div className="row">
-                <div className="col-sm-3">
-                    
+                <div className="col-sm-5">
+                    <p className="pic-num">1 of 5</p>
                 </div>
-                <div className="col-sm-9">
+                <div className="col-sm-7">
+                    <p className="adrss"><strong>Aesop Bleecker Street </strong><br></br>341 Bleecker St, New York, NY, 10014</p>
                     
                 </div>
             </div>

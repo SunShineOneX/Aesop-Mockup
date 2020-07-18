@@ -57,6 +57,7 @@ button {
 
 a {
   cursor: pointer;
+  color: black;
 }
 
 #bleeker {
@@ -76,4 +77,15 @@ a {
 .psh-dwn {
   background-color: #fefdf2;
   height: 20px;
+}
+
+.pic-num {
+  font-size: 7pt;
+  margin-left: 15px;
+  margin-top: 30px;
+}
+
+.adrss {
+  font-size:7pt;
+  margin-top: 30px;
 }

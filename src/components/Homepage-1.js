@@ -35,17 +35,24 @@ function Homepage() {
             </ul>
         </div>
       </nav>
+        <div class="row" id="landing-title">
+            <div class="col-lg-3">
+            <h4>Aesop</h4>
+            </div>
+            <div class="col-lg-6">
+                <h5>Forumlations for skin, hair, home and body</h5>
+                <h6>Created with sensory pleasure in mind.</h6>
+                </div>
+
         </div>
+        </div>
+        </div>
+        
 
         
             
-            {/* <div>
-                <img className="landing-page" src={require("../images/Aesop-Homepage-Banner.jpg")} />
-                    <div></div>
-                    
-            </div> */}
-            
-        </div>
+        
+        
     )
 }
 

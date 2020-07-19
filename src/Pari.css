@@ -1,0 +1,137 @@
+.container {
+  background-color: #fefdf2;
+}
+
+.kit {
+  height: 340px;
+  width: 700px;
+  margin-bottom: 100px;
+  margin-left: 140px;
+}
+
+.frag {
+  margin-top: 45px;
+}
+
+card-bg {
+  background-color: #fefdf2;
+}
+
+#card {
+  background-color: transparent;
+  border: none;
+}
+
+#title {
+  font-size: 20px;
+}
+
+#sub-title {
+  font-size: 9pt;
+}
+
+button {
+  background-color: #fefdf2;
+  border: solid #c1c0b7 0.25px;
+  padding: 12px;
+  font-size: 7pt;
+}
+
+.carousel {
+  background-color: #fefdf2;
+  height: 200px;
+}
+
+.scrub1 {
+  margin-top: 13px;
+}
+
+.scrub2 {
+  margin-top: 159px;
+}
+
+.body-btn {
+  margin-top: 250px;
+  font-size: 8pt;
+}
+
+a {
+  cursor: pointer;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#bleeker {
+  width: 100%;
+  height: 500px;
+  padding: 0 15px;
+  margin-top: 25px;
+}
+
+#find-btn {
+  background-color: #fefdf2;
+  border: solid #c1c0b7 0.25px;
+  padding: 12px;
+  font-size: 7pt;
+}
+
+.psh-dwn {
+  background-color: #fefdf2;
+  height: 20px;
+}
+
+.pic-num {
+  font-size: 7pt;
+  margin-left: 15px;
+  margin-top: 30px;
+}
+
+.adrss {
+  font-size:7pt;
+  margin-top: 30px;
+}
+
+.nurt2 {
+  margin-top: 99px;
+}
+
+.nurt3 {
+  margin-top: 27px;
+}
+
+.nurt4 {
+  margin-top: 20px;
+}
+
+.nurt5 {
+  margin-top: -2px;
+}
+
+.btm-spc {
+  margin-top: 10px;
+}
+
+.hnd-wsh {
+  height: 300px;
+  width: 300px;
+}
+
+.lst-crd {
+  margin-left: 50px;
+}
+
+.lst-txt {
+  text-align: left;
+  margin-left: 200px;
+}
+
+.lst-top {
+  font-size: 15pt;
+}
+
+.lst-btm {
+  font-size: 9pt;
+}

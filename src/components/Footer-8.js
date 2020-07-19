@@ -9,7 +9,7 @@ class Footer extends Component {
                     <div class="col-lg-3">
                         <p>I would like to receive communication about Aesop products, services, stores, events and matters of cultural interest.</p>
                         <br></br>
-                        <h5>Email Address</h5>
+                        <p>Email Address</p>
                         <input type="email"></input>
                     </div>
                     <div class="col-lg-3" id="footer-contact-us">

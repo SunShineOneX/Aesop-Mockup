@@ -8,7 +8,7 @@ function Homepage() {
             </div>
             <div>
             <nav class="navbar navbar-expand-lg navbar-dark">
-            <a class="navbar-brand" href="">Aesop</a>
+            <a class="navbar-brand" href="">Aēsop</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -37,7 +37,7 @@ function Homepage() {
       </nav>
         <div class="row" id="landing-title">
             <div class="col-lg-3">
-            <h4>Aesop</h4>
+            <h4>Aēsop.</h4>
             </div>
             <div class="col-lg-6">
                 <h5>Forumlations for skin, hair, home and body</h5>

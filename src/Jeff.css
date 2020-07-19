@@ -1,14 +1,14 @@
-.landing-page {
+/* Global element styles */
 
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+    background-color: #fffef4;
 }
 
-#header {
-    background-color: #252525;
-    color: white;
-    margin: 0;
-    text-align: center;
-    height: 4vh;
-    padding: 0;
+a {
+    color: black;
 }
 
 p {
@@ -16,6 +16,26 @@ p {
     margin-bottom: 0;
     font-size: 10px;
 }
+
+/* Header */
+
+#header p {
+margin-bottom: 1vh;
+}
+
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #252525;
+    color: white;
+    margin: 0;
+    text-align: center;
+    height: 6vh;
+    padding: 0
+}
+
+/* Nav Styles */
 
 .nav-link {
     color: white;
@@ -26,12 +46,7 @@ p {
 }
 
 
-.first {
-    height: 40vh;
-    min-height: 400px;
-    background-size: cover;
-    background-image: src("./images/Aesop-Homepage-Banner.jpg");
-}
+/* Homepage 1 */
 
 #wrapper {
     height: 40vh;
@@ -48,4 +63,85 @@ p {
 
 #landing-title {
     color: #e3e1d8;
+}
+
+/* Homepage 2 */
+
+#card-deck {
+    background-color: #fffef4;
+}
+
+#card {
+    background-color: #fffef4;
+    border: 0;
+}
+
+.card-text {
+    padding-top: 0;
+}
+
+#sub-title-deoderant {
+    padding-left: 6.5vw;
+    padding-top: 7.5vh;
+}
+
+.card-body {
+    padding: 0 0 3vh 0;
+}
+
+#sub-title-parfum {
+    padding-top: 2.5vh;
+}
+
+.staple-images {
+    padding-bottom: 5vh;
+}
+
+/* Footer */
+
+#container-footer {
+    padding: 0 0;
+}
+
+#footer-row {
+    padding-top: 0;
+    padding-bottom: 5vh;
+}
+
+#footer-contact-us {
+    padding-left: 15vh;
+}
+
+.contact-links {
+    font-weight: bold;
+    font-style: bold;
+    font-size: .7rem;
+    padding-top: .6em;
+}
+
+.contact-options {
+   margin-top: 2vh;
+}
+
+#very-bottom-footer p {
+    margin-top: 1vh;
+    }
+
+#very-bottom-footer {
+    display: flex;
+    background-color: #252525;
+    color: white;
+    margin: 0;
+    height: 6vh;
+    padding: 0
+}
+
+.footer-aesop {
+    padding-left: 2vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-country {
+   margin-left: 89vw;
 }

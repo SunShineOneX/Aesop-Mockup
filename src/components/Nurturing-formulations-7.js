@@ -53,7 +53,7 @@ function Nurturing() {
             </div>
             <div className="btm-spc"></div>
             <div className="row">
-                <div className="col-sm-4">
+                <div className="col-sm-2">
                 <div id="card" className="card lst-crd">
                             <img src={require('../images/daily_products/Aesop-Body-Geranium-Leaf-Body-Cleanser-500mL-large.png')} className="card-img-top hnd-wsh" alt=""></img>
                             <div className="card-body">
@@ -70,7 +70,7 @@ function Nurturing() {
                         <li className="lst-btm">Hand & Body</li>
                     </ul>
                 </div>
-                <div className="col-sm-4">
+                <div className="col-sm-3">
                 <ul>
                         <li className="lst-btm"><strong>Hair care</strong></li>
                         <li className="lst-btm"></li>

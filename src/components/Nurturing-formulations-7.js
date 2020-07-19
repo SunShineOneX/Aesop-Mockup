@@ -62,7 +62,7 @@ function Nurturing() {
                 </div>
                 <div className="col-sm-4 lst-txt">
                     <p className="lst-top">Discover more</p>
-                    <p className="lst-mid"><strong>Kits & duets</strong></p>
+                    <p className="lst-btm"><strong>Kits & duets</strong></p>
                     <ul>
                         <li className="lst-btm">Travel</li>
                         <li className="lst-btm">Gift Kits</li>
@@ -73,7 +73,7 @@ function Nurturing() {
                 <div className="col-sm-3">
                 <ul>
                         <li className="lst-btm"><strong>Hair care</strong></li>
-                        <li className="lst-btm"></li>
+                        <li className="lst-btm"><br></br></li>
                         <li className="lst-btm">Cleanse</li>
                         <li className="lst-btm">Condition</li>
                         <li className="lst-btm">Treat</li>

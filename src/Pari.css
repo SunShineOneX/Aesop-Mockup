@@ -60,6 +60,10 @@ a {
   color: black;
 }
 
+ul {
+  list-style-type: none;
+}
+
 #bleeker {
   width: 100%;
   height: 500px;
@@ -104,4 +108,22 @@ a {
 
 .nurt5 {
   margin-top: -2px;
+}
+
+.btm-spc {
+  margin-top: 10px;
+}
+
+.hnd-wsh {
+  height: 300px;
+  width: 300px;
+}
+
+.lst-crd {
+  margin-left: 150px;
+}
+
+.lst-txt {
+  text-align: left;
+  margin-left: 100px;
 }

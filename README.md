@@ -14,6 +14,9 @@
 * Footer
 
 
+## Wireframes
+![Wireframe 1](/wp/wp1.png)
+![Wireframe 2](/wp/wp2.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
